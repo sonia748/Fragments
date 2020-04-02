@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/screen1"
+        android:icon="@drawable/screen1"
+        android:title="Screen1"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/screen2"
+        android:icon="@drawable/screen2"
+        android:title="Screen2"
+        app:showAsAction="always" />
+</menu>
